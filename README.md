@@ -1,6 +1,6 @@
 # Delivery App - Backend
 
-REST API for a delivery management platform that connects clients, couriers and administrators. Built with Node.js, Express and MongoDB. It powers the [Flutter mobile app](https://github.com/henibenamara/delivery-app-frontend-).
+REST API for a delivery management platform that connects clients, couriers and administrators. Built with Node.js, Express and MongoDB. It powers the [Flutter mobile app](https://github.com/henibenamara/delivery-app-frontend).
 
 Built as a team project during my end-of-study internship (2022).
 
